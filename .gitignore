@@ -1,0 +1,9 @@
+# OS
+.DS_Store
+Thumbs.db
+# Editors
+.vscode/
+.idea/
+*.swp
+# Personal backups exported from the app
+gym-planner-*.json

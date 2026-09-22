@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏋️ GYM PLANNER
+# 🏋️ GYM PLANNER v0.1
 
 **Track your diet, log your lifts, and climb the ranks, all in one page.**
 
